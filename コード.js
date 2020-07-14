@@ -1,11 +1,11 @@
 //★★LINE Messaging APIのチャネルアクセストークン★★
-var LINE_ACCESS_TOKEN = 'zijV+I4gtkzsYrV8FKdXlNhUNIYbb76vzzFsEIbbjJnxpDWCsBgp0yriJaCCKkxDoBQcxCOaCp6hKzekycRNF/uwcRWAI61c/EmXxb3U3Ej+9jtzdNf9aMV9bHRLSRvaF0CRQT4VPSVOGHm7mD8dAQdB04t89/1O/w1cDnyilFU=';
+var LINE_ACCESS_TOKEN = '　';
 
 //★★スプレッドシートID★★
-var ss = SpreadsheetApp.openById("16kiKRErvYUYL8T2n2_GH_ZoLRHfIyVwOgdLLJLsW-Rg");
+var ss = SpreadsheetApp.openById("　");
 
 //★★シート名★★
-var sh = ss.getSheetByName("WordList");
+var sh = ss.getSheetByName("　");
 
 
 //LINE Messaging APIからPOST送信を受けたときに起動する
