@@ -1,6 +1,7 @@
 # アプリケーションの概要
 - 牛肉（和牛）の最適な焼き方を提案してくれるBotです。
 - LINEID @486hrwpq
+- QRコード  
 <img src="https://user-images.githubusercontent.com/64761563/87368164-e4691380-c5b7-11ea-9b84-b22ac51259e3.png" width=10%>
 <img src="https://user-images.githubusercontent.com/64761563/87365920-65251100-c5b2-11ea-8685-c95c14c14015.PNG" width=20%>
 
